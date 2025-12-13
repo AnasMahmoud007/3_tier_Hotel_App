@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mdnJUhKYvs8=",
+  "success": false,
+  "projectFilePath": "D:\\CCNA  course\\DEPI dev_ops\\Hotel-project-by-shadow9-1-1-main\\Hotel-project-by-shadow9-1-1-main\\Hotel\\Hotel.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Data.SqlClient' from remote source 'https://www.nuget.org/api/v2/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0'.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'www.nuget.org'",
+      "projectPath": "D:\\CCNA  course\\DEPI dev_ops\\Hotel-project-by-shadow9-1-1-main\\Hotel-project-by-shadow9-1-1-main\\Hotel\\Hotel.csproj",
+      "filePath": "D:\\CCNA  course\\DEPI dev_ops\\Hotel-project-by-shadow9-1-1-main\\Hotel-project-by-shadow9-1-1-main\\Hotel\\Hotel.csproj",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Ignore all wwwroot content for the backend image
+Hotel/wwwroot/
+
+# Ignore the entire frontend directory
+frontend/
+
+# Ignore git and vs related files
+.git/
+.vs/
+
+# Ignore bin/obj folders
+**/bin/
+**/obj/
